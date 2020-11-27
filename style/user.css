@@ -1,0 +1,27 @@
+.user{
+    background-color: #FAF2EF;
+    padding: 15px;
+    border: 1px solid #F4A086;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+}
+.user-div{
+    float: left;
+    margin: 0px 4px 0px 5px;
+}
+.user-div img{
+    border: 1px solid orange;
+    padding: 1px;
+}
+.user-div p{
+    line-height: 0px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.user-div span{
+    line-height: 0px;
+    font-size: 12px;
+    color: rgb(119, 117, 117);
+}

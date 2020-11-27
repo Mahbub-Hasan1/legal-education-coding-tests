@@ -1,0 +1,15 @@
+footer{
+    background: #2FA94B;
+    height: 65px;
+}
+footer ul{
+    margin-left: 20%;
+    margin-top: 0;
+}
+footer ul li{
+    float: left;
+    list-style: none;
+    padding: 25px 0px 0px 10px;
+    color: #fff;
+    transition: 1s;
+}
